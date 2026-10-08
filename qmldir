@@ -1,0 +1,11 @@
+module components
+
+StatusIcon 1.0 StatusIcon.qml
+TopBar 1.0 TopBar.qml
+Sidebar 1.0 Sidebar.qml
+SidebarItem 1.0 SidebarItem.qml
+RightColumn 1.0 RightColumn.qml
+BottomCards 1.0 BottomCards.qml
+ActionCard 1.0 ActionCard.qml
+SessionsWidget 1.0 SessionsWidget.qml
+StorageWidget 1.0 StorageWidget.qml
